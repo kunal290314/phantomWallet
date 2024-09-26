@@ -20,7 +20,7 @@ function App() {
 
                 // Send the public key and Telegram chat ID to the backend via ngrok URL
                 fetch(
-                    'https://add3-103-99-13-154.ngrok-free.app/connect-wallet',
+                    'https://8a92-103-99-13-154.ngrok-free.app/connect-wallet',
                     {
                         method: 'POST',
                         headers: {
